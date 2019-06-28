@@ -4,3 +4,7 @@
 *.zip
 *.csv
 .ipynb_checkpoints
+*.dat
+*.gz
+week2/ngrams/googlebooks*
+*.tsv
